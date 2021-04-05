@@ -645,6 +645,18 @@ section {
 }
 /* End::ComoComprar */
 
+/* Begin::Horarios */
+.horarios {
+    .card-body.horarioespecial {
+        background-color: $color-tercero;
+
+        h4.card-title, ul>li {
+            color: $color-white;
+        }
+    }
+}
+/* End::horarios */
+
 .content {
     max-width: 1260px;
     width: 100%;
