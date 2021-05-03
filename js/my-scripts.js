@@ -1,10 +1,4 @@
-//Lightbox
-        lightbox.option({
-            'resizeDuration': 200,
-            'wrapAround': false,
-            'albumLabel': false,
-            'alwaysShowNavOnTouchDevices': false
-        })
+
 
 //Carrusels
 $('.owl-novedades').owlCarousel({
